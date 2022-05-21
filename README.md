@@ -11,5 +11,5 @@ In this assignment I learned how to refactor HTML, fix repetitive CSS codes, and
 ## Screenshot 
 
 
-![Picture of Horiseon Website](./assets/images/brand-awareness.png "Logo Title Text 1") 
+![Picture of Horiseon Website](./assets/images/websitepic.png "Logo Title Text 1") 
 
